@@ -1,6 +1,6 @@
 
 
-<img src = "https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif" alt="Beautiful scenery" width="1600" height= "700">
+<img src = "https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif" alt="Beautiful scenery" width="1500" height= "600">
 <h1 align="center">Hi 👋, I'm Gizala Parvin</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
